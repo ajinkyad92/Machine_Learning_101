@@ -1,4 +1,6 @@
-# PythonBasics
-Basics of Python
+# Machine Learning 101
+# Quick revision to all the inbuilt functions in machine learning
 
-Have added almost all the in-built functions available in python
+- Basics of Python
+- Numpy
+- Pandas
