@@ -5,3 +5,4 @@ Quick revision to all the inbuilt functions in machine learning
 - Basics of Python
 - Numpy
 - Pandas
+- Matplotlib
