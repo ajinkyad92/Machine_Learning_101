@@ -6,3 +6,4 @@ Quick revision to all the inbuilt functions in machine learning
 - Numpy
 - Pandas
 - Matplotlib
+- Seaborn
